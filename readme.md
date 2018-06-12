@@ -5,5 +5,5 @@ see the following link, "https://arxiv.org/abs/1801.00868".
 This code calculate PQ between prediction and ground truth data.  
 Excecute as following,
 ```python:PQ.py
-	python PQ.py <pred_dir> <label_dir> <log.txt>
+	python PQ.py <pred_dir> <gt_dir> <log.txt>
 ```
